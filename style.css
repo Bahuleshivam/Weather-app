@@ -170,3 +170,11 @@ body{
     color: #6b6b6b;
     margin-block-end: 15px;
 }
+
+
+@media (max-width: 500px) {
+    .container{
+        width: 85%;
+    }
+    
+}
